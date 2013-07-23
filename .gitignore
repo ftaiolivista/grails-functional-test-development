@@ -1,4 +1,11 @@
 *.zip
 *.xml
 target
-*.log
+*.log.classpath
+.project
+.settings
+web-app/css/
+web-app/images
+web-app/js
+.classpath
+grails-app/i18n
